@@ -1,2 +1,1 @@
-# Coursera_Capstone
-Data science capstone project on coursera
+# This repository contains all the work done in IBM Data Specialization course
